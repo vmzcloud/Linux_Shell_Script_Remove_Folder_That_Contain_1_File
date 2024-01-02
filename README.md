@@ -1,0 +1,1 @@
+# Linux_Shell_Script_Remove_Folder_That_Contain_1_File
